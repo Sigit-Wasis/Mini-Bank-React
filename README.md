@@ -2,11 +2,10 @@
 
 ### 🔐 Halaman Login
 
-![Login Page](public/UI/login.png)
-
-### 🏠 Halaman Home
-
-![Home Page](public/UI/home.png)
+<p align="center">
+  <img src="public/UI/login.png" width="28%" />
+  <img src="public/UI/home.png" width="28%" />
+</p>
 
 **Mini Bank App** adalah aplikasi simulasi perbankan digital sederhana yang dibangun menggunakan **React.js**. Aplikasi ini dirancang untuk meniru fitur dasar layanan perbankan modern seperti pengelolaan saldo, transfer dana, dan riwayat transaksi dengan antarmuka yang cepat, responsif, dan mudah digunakan.
 
