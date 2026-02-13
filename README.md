@@ -1,7 +1,5 @@
 ## 💳 Mini Bank App
 
-### 🔐 Halaman Login
-
 <p align="center">
   <img src="public/UI/login.png" width="28%" />
   <img src="public/UI/home.png" width="28%" />
