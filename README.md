@@ -1,12 +1,12 @@
 ## 💳 Mini Bank App
 
-![Image](https://cdn.dribbble.com/userupload/46608453/file/1aaa1042a52a36dd862a35334bd42297.png?format=webp&resize=400x300&vertical=center)
+### 🔐 Halaman Login
 
-![Image](https://cdn.dribbble.com/userupload/16677654/file/original-75cf3068bacc27ab2d2379726c643dd1.png?format=webp&resize=1440x&vertical=center)
+![Login Page](public/UI/login.png)
 
-![Image](https://cdn.dribbble.com/userupload/45878973/file/5122ee685490fc11133ece04dc7f310e.jpg?resize=400x0)
+### 🏠 Halaman Home
 
-![Image](https://cdn.dribbble.com/userupload/36049595/file/original-7124011cad0e926cad34f55228422d80.png?format=webp&resize=400x300&vertical=center)
+![Home Page](public/UI/home.png)
 
 **Mini Bank App** adalah aplikasi simulasi perbankan digital sederhana yang dibangun menggunakan **React.js**. Aplikasi ini dirancang untuk meniru fitur dasar layanan perbankan modern seperti pengelolaan saldo, transfer dana, dan riwayat transaksi dengan antarmuka yang cepat, responsif, dan mudah digunakan.
 
@@ -100,10 +100,10 @@ npm run dev
 
 Project ini cocok digunakan sebagai:
 
-✔️ Portfolio frontend developer
-✔️ Studi kasus aplikasi fintech
-✔️ Latihan integrasi React dengan REST API
-✔️ Dasar pengembangan e-wallet atau POS system
+- [x] Portfolio frontend developer
+- [x] Studi kasus aplikasi fintech
+- [x] Latihan integrasi React dengan REST API
+- [x] Dasar pengembangan e-wallet atau POS system
 
 ---
 
